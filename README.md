@@ -25,7 +25,7 @@ The program attemps to generate a word search that contains all of the words in 
 
 Tested in Ubuntu using bash. Just ensure requirements are installed.
 
-Clone the [repository](https://github.com/mmhs114/word-search-generator-cli.git) and enter the directory.\
+Clone the [repository](https://github.com/manuelmhs/word-search-generator-cli.git) and enter the directory.\
 Within the root folder using bash:
 - ```make``` or ```make all``` compiles all C sources files and generates the output file.
 - ```make run``` compiles (if necessary) and runs: pytest test cases, C output file and python program.
