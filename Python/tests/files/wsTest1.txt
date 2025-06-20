@@ -1,0 +1,22 @@
+
+  
+ DIMENSION  
+ 
+
+ 
+  5 
+ 
+   WORDS
+
+casa 2
+ 
+
+arbol 1  
+  jorge 4
+
+  
+ 
+hola 5
+
+   
+ 

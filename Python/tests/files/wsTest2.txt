@@ -1,0 +1,8 @@
+DIMENSION
+6
+WORDS
+maria 1
+cohete 2
+tela 0
+fibron 3
+monitor 0
